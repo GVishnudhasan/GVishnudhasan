@@ -1,5 +1,13 @@
 # 💫 About Me:
-As an enthusiastic and self-motivated individual with a strong foundation in coding, web development, and basic penetration testing, I seek a position where I can leverage my exceptional problem-solving abilities and proficiency in web application design, code writing, testing, and troubleshooting issues to deliver superior work. I am a dedicated learner, committed to continually enhancing my skills and knowledge, and I am eager to contribute to a dynamic team environment.
+I am a dedicated professional with a strong interest in the field of AI and ML security. Currently, I am actively involved in researching and exploring innovative approaches to enhance the security of AI & ML Systems.
+
+As a cybersecurity enthusiast, I am driven by a passion to contribute my skills to protect and secure digital ecosystems. With expertise as a full-stack developer, I have a deep understanding of writing scalable and secure code to develop robust software applications. I am well-versed in implementing best practices and industry standards to ensure the confidentiality, integrity, and availability of data.
+
+Furthermore, I actively involve in penetration testing, specializing in identifying vulnerabilities in web applications. I am adept at performing comprehensive security assessments, conducting penetration tests, and providing actionable recommendations to enhance the security posture of web-based systems.
+
+By combining my skills in AI and ML security, full-stack development, and penetration testing, I strive to deliver holistic solutions that address the evolving cybersecurity challenges faced by organizations today. I am committed to staying up-to-date with the latest trends, technologies, and best practices in the field of cybersecurity to provide effective and proactive protection against emerging threats.
+
+I am actively seeking opportunities in the role of a Software Developer Intern within an organization that aligns with my career goals and values. My aim is to utilize my skills in AI and ML security, full stack development, and penetration testing to contribute to projects that make a positive impact on the world.
 
 
 ## 🌐 Socials:
